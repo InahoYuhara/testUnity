@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testUnity.Plugins", "testUnity.Plugins.csproj", "{A1DAC1AB-3621-EB0B-537A-1115D0D27AC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testUnity", "testUnity.csproj", "{74D02E7B-4E0A-8028-1A72-5CC85C3A21D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{A1DAC1AB-3621-EB0B-537A-1115D0D27AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1DAC1AB-3621-EB0B-537A-1115D0D27AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1DAC1AB-3621-EB0B-537A-1115D0D27AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D02E7B-4E0A-8028-1A72-5CC85C3A21D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D02E7B-4E0A-8028-1A72-5CC85C3A21D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D02E7B-4E0A-8028-1A72-5CC85C3A21D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D02E7B-4E0A-8028-1A72-5CC85C3A21D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
